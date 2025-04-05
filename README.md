@@ -88,4 +88,3 @@ This project is developed as part of an academic coursework submission and is cu
 ---
 
 **Developed by:** Brave Team of Five  
-**Affiliation:** [Your School or Course Name]
